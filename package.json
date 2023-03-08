@@ -1,0 +1,36 @@
+{
+  "name": "pim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/native-stack": "^6.9.0",
+    "axios": "^1.1.2",
+    "base-64": "^1.0.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "ethers": "^5.7.2",
+    "expo": "~46.0.13",
+    "expo-font": "^10.2.1",
+    "expo-splash-screen": "~0.16.2",
+    "expo-status-bar": "~1.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-native": "0.69.6",
+    "react-native-dotenv": "^3.3.1",
+    "react-native-web": "~0.18.7",
+    "react-native-web-hover": "^0.2.9",
+    "react-router-dom": "^6.4.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}

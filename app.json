@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Number",
+    "slug": "Number",
+    "icon": "./imgs/icon.png",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
